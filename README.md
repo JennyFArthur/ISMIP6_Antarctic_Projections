@@ -1,4 +1,4 @@
-# ISMIP6_Antarctic_Projections
+# ISMIP6 Antarctic Projections
 
 Scripts for extracting and evaluating netCDF ISMIP6 Antarctic Projections model outputs.
 
